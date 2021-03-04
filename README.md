@@ -9,7 +9,8 @@ PhysX 4.1 binary framework prebuilt in Big Sur 11.2.2, x86-64, Xcode 12.4, clang
 
 ## USAGE
 
-1. open the directory with [clion](https://www.jetbrains.com/clion/)
-2. build all
-3. run
+1. unzip ***lib/libPhysX_static_64.a.zip***
+2. open the directory with [clion](https://www.jetbrains.com/clion/)
+3. build all
+4. run
 
